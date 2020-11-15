@@ -1,0 +1,8 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">PracticeApplication</string>
+    <string name="hello_world">Hello world!!</string>
+    <string name="action_setting">Settings</string>
+    <string name="toppings">Toppings</string>
+    <string name="thank_you">Thank You!</string>
+    <string name="order_summary_name">Name : <xliff:g id="name" example="Amy" >%s</xliff:g></string>
+</resources>
